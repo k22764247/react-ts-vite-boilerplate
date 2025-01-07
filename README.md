@@ -1,3 +1,6 @@
 # React + TypeScript + Vite 기본 세팅
 
-프로젝트 생성까지만
+## 라이브러리
+- 상태 관리 - Redux Toolkit, Redux Persist
+- Css - Tailwind Css
+- 
